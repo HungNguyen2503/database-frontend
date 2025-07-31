@@ -78,11 +78,12 @@
       "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
       "category": "fragrances",
       "price": 129.99,
-      "discountPercentage": 16.51,
+      "discountPercentage": 16.5,
       "rating": 4.26,
       "stock": 58,
       "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
-      "brand": "Chanel"
+      "brand": "Chanel",
+      "updatedAt": 1752889680862
     },
     {
       "id": 8,
@@ -101,12 +102,13 @@
       "title": "Dolce Shine Eau de",
       "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
       "category": "fragrances",
-      "price": 69.99,
+      "price": 66.99,
       "discountPercentage": 0.62,
       "rating": 3.96,
       "stock": 4,
       "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
-      "brand": "Dolce & Gabbana"
+      "brand": "Dolce & Gabbana",
+      "updatedAt": 1752893729128
     },
     {
       "id": 10,
@@ -310,7 +312,8 @@
       "discountPercentage": 14.4,
       "rating": 3.97,
       "stock": 34,
-      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp"
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+      "updatedAt": 1752680432954
     },
     {
       "id": 28,
@@ -2235,6 +2238,126 @@
       "stock": 12,
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/thumbnail.webp",
       "brand": "Fashion Co."
+    },
+    {
+      "thumbnail": "https://www.mytheresa.com/media/1094/1238/100/65/P00946455.jpg",
+      "stock": 14,
+      "discountPercentage": 2,
+      "price": 285,
+      "category": "womens-dresses",
+      "description": "Material: 98% cotton, 2% elastane",
+      "title": "Staud",
+      "createdAt": 1752502818560,
+      "updatedAt": 1752502818560,
+      "id": 195
+    },
+    {
+      "thumbnail": "https://www.weqipao.com/wp-content/uploads/2023/12/Asian-Style-Dress-Mesh-Sexy-Slim-Fit-Cheongsam-6.jpg",
+      "title": "Asian Style Dress Mesh Sexy Slim Fit Cheongsam",
+      "category": "womens-dresses",
+      "price": 189,
+      "discountPercentage": 20,
+      "stock": 50,
+      "description": "Asian Style Dress Mesh Sexy Slim Fit Cheongsam",
+      "createdAt": 1752503580678,
+      "updatedAt": 1752503580678,
+      "id": 196
+    },
+    {
+      "thumbnail": "https://d1flfk77wl2xk4.cloudfront.net/Assets/52/351/M_p0208235152.jpg",
+      "title": "SisLinda",
+      "description": "SisLinda - Puff Sleeve Square Neck Floral Print Gathered Mini A-Line Dress",
+      "category": "womens-dresses",
+      "price": 8.01,
+      "discountPercentage": 10,
+      "stock": 10,
+      "createdAt": 1752504418006,
+      "updatedAt": 1752545794900,
+      "id": 197
+    },
+    {
+      "title": "Lemongrass",
+      "thumbnail": "https://d1flfk77wl2xk4.cloudfront.net/Assets/51/890/M_p0129189051.jpg",
+      "category": "womens-dresses",
+      "description": "Lemongrass - Spaghetti Strap Floral Print Ruffled Hem Mini A-Line Dress",
+      "createdAt": 1752504456113,
+      "updatedAt": 1752544996350,
+      "price": 15,
+      "id": 198,
+      "discountPercentage": 12,
+      "stock": 5
+    },
+    {
+      "thumbnail": "https://d1flfk77wl2xk4.cloudfront.net/Assets/43/912/M_p0194891243.jpg",
+      "category": "womens-dresses",
+      "createdAt": 1752507435002,
+      "updatedAt": 1752541423067,
+      "id": 199,
+      "description": "Shinsei - Spaghetti Strap Floral Tiered Midi A-Line Dress / Plain Cardigan",
+      "title": "Shinsei",
+      "price": 30,
+      "discountPercentage": 2,
+      "stock": 2
+    },
+    {
+      "thumbnail": "https://d1flfk77wl2xk4.cloudfront.net/Assets/28/341/M_p0197534128.jpg",
+      "description": "KUMI - Sleeveless Square Neck Plain Maxi A-Line Dress",
+      "title": "KUMI",
+      "category": "womens-dresses",
+      "price": 3000,
+      "discountPercentage": 4,
+      "stock": 5,
+      "createdAt": 1752507503490,
+      "updatedAt": 1752541474871,
+      "id": 200
+    },
+    {
+      "thumbnail": "https://d1flfk77wl2xk4.cloudfront.net/Assets/46/005/M_p0194800546.jpg",
+      "description": "Maisee - Spaghetti Strap Cowl Neck Floral Maxi A-Line Dress / Plain Cardigan",
+      "title": "Maisee",
+      "category": "womens-dresses",
+      "price": 123,
+      "discountPercentage": 2,
+      "stock": 22,
+      "createdAt": 1752507530386,
+      "updatedAt": 1752546509611,
+      "id": 201
+    },
+    {
+      "description": "Hevnir - Short-Sleeve Square Neck Floral Midi A-Line Dress",
+      "title": "Hevnir",
+      "category": "womens-dresses",
+      "price": 120,
+      "discountPercentage": 2,
+      "stock": 22,
+      "thumbnail": "https://d1flfk77wl2xk4.cloudfront.net/Assets/06/136/M_p0216413606.jpg",
+      "createdAt": 1752507566505,
+      "updatedAt": 1752507566505,
+      "id": 202
+    },
+    {
+      "thumbnail": "https://d1flfk77wl2xk4.cloudfront.net/Assets/77/121/M_p0217712177.jpg",
+      "description": "Floral Closet - Spaghetti Strap Floral Mini Sundress",
+      "title": "Floral Closet",
+      "category": "womens-dresses",
+      "price": 400,
+      "discountPercentage": 5,
+      "stock": 6,
+      "createdAt": 1752507606189,
+      "updatedAt": 1752507606189,
+      "id": 203
+    },
+    {
+      "title": "Mermaid Dress",
+      "description": "Floral Closet - Spaghetti Strap Scoop Neck Plain Maxi Mermaid Dress",
+      "category": "womens-dresses",
+      "price": 333,
+      "discountPercentage": 3,
+      "stock": 33,
+      "thumbnail": "https://d1flfk77wl2xk4.cloudfront.net/Assets/71/858/M_p0218785871.jpg",
+      "createdAt": 1752507661334,
+      "updatedAt": 1752593535994,
+      "id": 204
     }
   ],
   "categories": [
@@ -2381,6 +2504,44 @@
       "slug": "womens-watches",
       "name": "Womens Watches",
       "url": "https://dummyjson.com/products/category/womens-watches"
+    }
+  ],
+  "ppp": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 10.48,
+      "rating": 2.56,
+      "stock": 99,
+      "brand": "Essence"
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "category": "beauty",
+      "price": 19.99,
+      "discountPercentage": 18.19,
+      "rating": 2.86,
+      "stock": 34,
+      "brand": "Glamour Beauty"
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "category": "beauty",
+      "price": 14.99,
+      "discountPercentage": 9.84,
+      "rating": 4.64,
+      "stock": 89,
+      "brand": "Velvet Touch"
+    },
+    {
+      "brand": "Hello",
+      "createdAt": 1752601475577,
+      "updatedAt": 1752601475577,
+      "id": 4
     }
   ]
 }
